@@ -1,0 +1,7 @@
+.teste{
+    height:20rem;
+}
+.boxlist{
+    display: flex;
+    justify-content: space-evenly;
+}
